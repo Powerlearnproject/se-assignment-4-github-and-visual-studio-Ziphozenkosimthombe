@@ -116,6 +116,6 @@ jobs:
 
 ## Introduction to Visual Studio
 
-**What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
+ **What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 
 Visual Studio is an integrated development environment (IDE) developed by Microsoft for building various applications. Its key features include:
